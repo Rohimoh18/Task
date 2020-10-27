@@ -1,1 +1,2 @@
-# node-framework
+npm install express
+npm install mongoose
